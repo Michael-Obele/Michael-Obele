@@ -14,7 +14,8 @@
 
 <h3 align="center">I Love coding ❤️</h3>
 <p align="center">
-   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" height="97" width="134" >
+   <a href="https://github.com/Michael-Obele">
+   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" height="97" width="134" ></a>
 </p>
 
 <!---
