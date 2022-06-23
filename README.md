@@ -1,7 +1,9 @@
-Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" height="35" width="35" > My name is Michael Amachree
+# Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" height="35" width="35" > 
+
+My name is Michael Amachree
 =================================
 
-Web Developer
+I'm a Web Developer
 -------------
 
 I'm interested in front-end, back-end, Web3, and open source web development. A Science enthusiast, aspiring Software Engineer, and Math Major with a CS Degree.
