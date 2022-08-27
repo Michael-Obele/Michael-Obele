@@ -6,7 +6,7 @@ My name is Michael Amachree
 I'm a Web Developer
 -------------
 
-I'm interested in front-end, back-end, Web3, and open source web development. A Science enthusiast, aspiring Software Engineer, and Math Major with a CS Degree.
+I'm interested in front-end, back-end, Web3, and open source web development. A Science enthusiast, and Math Major with a CS Degree.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [amachree9630@gmail.com](mailto:amachree9630@gmail.com)
