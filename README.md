@@ -92,9 +92,7 @@
 </div>
 
 ###
+[comment]: <> (Will figure out how this works later)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Michael-Obele/Michael-Obele/output/snake.svg" alt="Snake animation" />
-
+[comment]: <> (<img src="https://raw.githubusercontent.com/Michael-Obele/Michael-Obele/output/snake.svg" alt="Snake animation" />)
 ###
