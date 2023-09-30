@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">"I'm Michael"<br><br>- 🔭 I’m working as a Science enthusiast and Math Major with a CS Degree.<br>- 📚 I'm currently learning React, Gatsby, Next JS, Node JS, MongoDB, and Svelte...to name a few.<br>- ⚡ In my free time, I enjoy working on open source, any frontend projects and learning new things!"</p>
+<p align="left">"I'm Michael"<br><br>- 🔭 I’m working as a Network Engineer, also have a CS Degree.<br>- 📚 I'm currently learning React, Gatsby, Next JS, Node JS, MongoDB, and Svelte...to name a few.<br>- ⚡ In my free time, I enjoy working on open source, any frontend projects and learning new things!"</p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
