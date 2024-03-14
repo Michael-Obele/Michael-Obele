@@ -1,5 +1,11 @@
+###
+
+<h1 align="center">Hi 👋, I'm Michael</h1>
+
+###
+
 # 💫 About Me:
-**I'm currently working on:** <br><br>- Network Engineer<br><br> **I'm currently learning:** <br><br>- Web development stack including React, Gatsby, Next.js, Node.js, MongoDB, and Svelte/SvelteKit.<br><br> **I'm looking for help with:** <br><br>- I'm particularly interested in overcoming challenges related to:<br>    - Integrating backend tools like Node.js with my frontend projects.<br>    - Adding authentication and database functionalities to websites.<br>- I'd love to connect with someone who has experience in these areas and can offer guidance.<br>- I'm also open to learning about backend frameworks or libraries that complement my chosen frontend frameworks.<br><br> **Ask me about:** <br><br>- Networking fundamentals<br>- Frontend development<br>- Learning resources for both networking and web development technologies<br><br> **⚡ Fun fact:** <br><br>- I enjoy contributing to open-source projects and building frontend experiences in my free time! <br>- I'm also a one-time Huawei ICT Global Champion (Network track).<br>
+**I'm currently working on:** <br><br>- Network Engineer<br><br> **I'm currently learning:** <br><br>- Web development stack including React, Next.js, Node.js, MongoDB, and Svelte/SvelteKit.<br><br> **I'm looking for help with:** <br><br>- I'm particularly interested in overcoming challenges related to:<br>    - Integrating backend tools like Node.js with my frontend projects.<br>    - Adding authentication and database functionalities to websites.<br>- I'd love to connect with someone who has experience in these areas and can offer guidance.<br>- I'm also open to learning about backend frameworks or libraries that complement my chosen frontend frameworks.<br><br> **Ask me about:** <br><br>- Networking fundamentals<br>- Frontend development<br>- Learning resources for both networking and web development technologies<br><br> **⚡ Fun fact:** <br><br>- I enjoy contributing to open-source projects and building frontend experiences in my free time! <br>- I'm also a one-time Huawei ICT Global Champion (Network track).<br>
 
 
 ## 🌐 Socials:
