@@ -5,8 +5,13 @@
 ###
 
 # 💫 About Me:
-**I'm currently working on:** <br><br>- Network Engineer<br><br> **I'm currently learning:** <br><br>- Web development stack including React, Next.js, Node.js, MongoDB, and Svelte/SvelteKit.<br><br> **I'm looking for help with:** <br><br>- I'm particularly interested in overcoming challenges related to:<br>    - Integrating backend tools like Node.js with my frontend projects.<br>    - Adding authentication and database functionalities to websites.<br>- I'd love to connect with someone who has experience in these areas and can offer guidance.<br>- I'm also open to learning about backend frameworks or libraries that complement my chosen frontend frameworks.<br><br> **Ask me about:** <br><br>- Networking fundamentals<br>- Frontend development<br>- Learning resources for both networking and web development technologies<br><br> **⚡ Fun fact:** <br><br>- I enjoy contributing to open-source projects and building frontend experiences in my free time! <br>- I'm also a one-time Huawei ICT Global Champion (Network track).<br>
-
+**I'm currently working on:** <br><br>- Network Engineer<br><br> **I'm currently learning:** <br><br>- Web development stack including React, Next.js, Node.js, MongoDB, and Svelte/SvelteKit.<br>
+<br>I'm looking for help with: <br>
+* **Overcoming challenges related to:**
+    * Integrating backend tools like Node.js with my frontend projects.
+    * Adding authentication and database functionalities to websites. 
+* **Connecting with someone who has experience in these areas and can offer guidance.**
+* **Learning about backend frameworks or libraries that complement my chosen frontend frameworks.** <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-amachree-1b71b8210/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14478792) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Dev_Obele) 
