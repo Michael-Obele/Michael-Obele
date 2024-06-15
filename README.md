@@ -51,5 +51,5 @@
 - [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
 - [Snag the Current URL in SvelteKit &lpar;2024 Edition&rpar;](https://dev.to/dev_michael/snag-the-current-url-in-sveltekit-2024-edition-3p15)
 - [Level Up Your Coding Game: Contribution Trackers for Open Source and Personal Growth](https://dev.to/dev_michael/level-up-your-coding-game-contribution-trackers-for-open-source-and-personal-growth-a0f)
-- [Unveiling the Mighty Mini: Your Guide to Svelte Mini Apps](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
+- [Svelte Mini Apps: Your Toolbox for Focused Web Development](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
 <!-- BLOG-POST-LIST:END -->
