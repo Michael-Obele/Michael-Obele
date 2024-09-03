@@ -10,7 +10,7 @@
 
 **Who I Am:**
 
-I'm a Network Engineer with a strong passion for full-stack development. I thrive on growth and constantly strive to learn and build impactful web applications. I am particularly enthusiastic about contributing to the Svelte ecosystem.
+I'm a full-stack dev with a knack for networking. Love building awesome web apps and contributing to open source, especially in the Svelte ecosystem.
 
 **What I Do:**
 
