@@ -59,8 +59,8 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hunt for the Perfect Svelte Charting Library: A Happy Ending!](https://dev.to/dev_michael/the-hunt-for-the-perfect-svelte-charting-library-a-happy-ending-o0p)
+- [Google new @ shortcut!](https://dev.to/dev_michael/google-new-shortcut-jc1)
 - [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
 - [Snag the Current URL in SvelteKit &lpar;2024 Edition&rpar;](https://dev.to/dev_michael/snag-the-current-url-in-sveltekit-2024-edition-3p15)
-- [Level Up Your Coding Game: Contribution Trackers for Open Source and Personal Growth](https://dev.to/dev_michael/level-up-your-coding-game-contribution-trackers-for-open-source-and-personal-growth-a0f)
-- [Svelte Mini Apps: Your Toolbox for Focused Web Development](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
 <!-- BLOG-POST-LIST:END -->
