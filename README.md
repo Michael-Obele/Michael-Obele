@@ -34,7 +34,7 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 
 
 #### 📌 Notable Contributions:
-[json-schema-org](https://github.com/json-schema-org/website) • [Supabase](https://github.com/supabase/supabase) • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+[json-schema-org](https://github.com/json-schema-org/website) • [supabase](https://github.com/supabase/supabase) • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) • [localsend/website](https://github.com/localsend/website)
 
 ---
 
