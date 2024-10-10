@@ -28,9 +28,7 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 
 ---
 #### 🚀 Notable Projects:
-- [Random-Quote-Gen-v3.0](https://github.com/Michael-Obele/Random-Quote-Gen-v3.0) — Generate, search, and save inspirational quotes with this Svelte-built web app. Capture quotes as images with a dynamic background for a visually engaging experience.
-- [Svelte-MiniApps](https://github.com/Michael-Obele/Svelte-MiniApps) — A collection of small, single-purpose Svelte applications offering simple and user-friendly solutions for specific tasks.
-- [libernotarum](https://github.com/Michael-Obele/libernotarum) — A giant note-taking app that stands out for its simplicity, security, and decentralized approach.
+ [Svelte-MiniApps](https://github.com/Michael-Obele/Svelte-MiniApps) • [Random-Quote-Gen-v3.0](https://github.com/Michael-Obele/Random-Quote-Gen-v3.0) • [libernotarum](https://github.com/Michael-Obele/libernotarum) 
 
 
 #### 📌 Notable Contributions:
