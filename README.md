@@ -67,8 +67,8 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining .deb Package Installation on Ubuntu: A Better Way to Manage Downloaded Packages](https://dev.to/dev_michael/streamlining-deb-package-installation-on-ubuntu-a-better-way-to-manage-downloaded-packages-140j)
 - [Why Do People Really Love These Frameworks: Angular, React, Vue, and Svelte?](https://dev.to/dev_michael/why-do-people-really-love-these-frameworks-angular-react-vue-and-svelte-5ano)
 - [The Hunt for the Perfect Svelte Charting Library: A Happy Ending!](https://dev.to/dev_michael/the-hunt-for-the-perfect-svelte-charting-library-a-happy-ending-o0p)
 - [Google new @ shortcut!](https://dev.to/dev_michael/google-new-shortcut-jc1)
-- [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
 <!-- BLOG-POST-LIST:END -->
