@@ -67,8 +67,8 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windsurf is Indeed Better Than Cursor IDE – t3.gg is biased](https://dev.to/dev_michael/windsurf-is-indeed-better-than-cursor-ide-t3gg-is-biased-4bia)
 - [Why Windsurf is the Best Free AI Code Editor You’ve Never Heard Of](https://dev.to/dev_michael/why-windsurf-is-the-best-free-ai-code-editor-youve-never-heard-of-3ofj)
 - [Streamlining .deb Package Installation on Ubuntu: A Better Way to Manage Downloaded Packages](https://dev.to/dev_michael/streamlining-deb-package-installation-on-ubuntu-a-better-way-to-manage-downloaded-packages-140j)
 - [Why Do People Really Love These Frameworks: Angular, React, Vue, and Svelte?](https://dev.to/dev_michael/why-do-people-really-love-these-frameworks-angular-react-vue-and-svelte-5ano)
-- [The Hunt for the Perfect Svelte Charting Library: A Happy Ending!](https://dev.to/dev_michael/the-hunt-for-the-perfect-svelte-charting-library-a-happy-ending-o0p)
 <!-- BLOG-POST-LIST:END -->
