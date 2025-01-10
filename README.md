@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=2000&color=FFD700&background=1E1E1E00&center=true&vCenter=true&random=true&width=435&height=80&lines=Who+knew+coding+could+be+this+fun%3F;Ideas+into+code%2C+commit+by+commit!" alt="Typing SVG" /></a>
 </p>
 
-###
+---
 
 # 💫 About Me:<br>
 
