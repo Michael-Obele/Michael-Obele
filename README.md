@@ -31,11 +31,11 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 * Delving deeper into the Svelte ecosystem to build more efficient and impactful web applications. 🌱
 
 ---
-#### 🚀 Notable Projects:
+#### **🚀 Personal Projects**:
  [Svelte-MiniApps](https://github.com/Michael-Obele/Svelte-MiniApps) • [Random-Quote-Gen-v3.0](https://github.com/Michael-Obele/Random-Quote-Gen-v3.0) • [libernotarum](https://github.com/Michael-Obele/libernotarum) 
 
 
-#### 📌 Notable Contributions:
+#### **🤝 Open Source Contributions**:
 [json-schema-org](https://github.com/json-schema-org/website) • [supabase](https://github.com/supabase/supabase) • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) • [localsend/website](https://github.com/localsend/website)
 
 ---
