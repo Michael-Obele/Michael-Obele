@@ -31,7 +31,15 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 * Delving deeper into the Svelte ecosystem to build more efficient and impactful web applications. 🌱
 --->
 
+<!---
+
  I'm a full-stack developer and network engineer who builds awesome web apps and contributes to open source—especially within the Svelte ecosystem. I integrate robust backends (using Node.js, Prisma, PostgreSQL, and SQL) with sleek frontends in SvelteKit and Next.js, while continually learning advanced full-stack techniques to craft innovative digital experiences.
+--->
+**What I Do:**
+
+* Network Engineer (current role) 💻
+* Building web apps with **Next.js/SvelteKit**, contributing to Svelte OSS. Integrate secure systems via **Node.js, Prisma, PostgreSQL**. Focused on advancing full-stack efficiency and Svelte ecosystem tools. 🛠️
+
 
 <!---
 #### **🚀 Personal Projects**:
@@ -43,11 +51,11 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 
 --->
 
-**What I'm Looking For:**
+**What I’m Looking For:**  
+- **Collaborate** on full-stack projects with SvelteKit/modern frameworks 🛠️  
+- **Explore** cutting-edge techniques and best practices in full-stack dev 📘  
+- **Mentorship** to grow my expertise and impact in the Svelte community 🌱  
 
-* Collaboration opportunities on full-stack projects, especially those leveraging SvelteKit and innovative frameworks. 🔧
-* Engaging discussions and resources on cutting-edge full-stack development techniques and best practices. 🔍
-* Mentorship from seasoned professionals to help scale my skills in full-stack development and contribute more effectively to the Svelte community. 👨‍🏫
 
 
 
