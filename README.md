@@ -87,7 +87,7 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 
 <!-- BLOG-POST-LIST:START -->
 - [Streamlining Scheduling: Integrating Cal.com with SvelteKit &amp; Svelte 5](https://dev.to/dev_michael/streamlining-scheduling-integrating-calcom-with-sveltekit-svelte-5-bi2)
-- [Windsurf&#39;s New Path: Balancing Free Innovation and Premium Power](https://dev.to/dev_michael/windsurf-from-free-coding-hero-to-pricey-ai-rival-what-happened-k87)
 - [AI is a powerful tool, but it can&#39;t innovate or reason like humans. In my latest post, I dive into the real limitations of AI in coding, why it can&#39;t replace developers, and how we should use it as an assistant, not a replacement.](https://dev.to/dev_michael/ai-is-a-powerful-tool-but-it-cant-innovate-or-reason-like-humans-in-my-latest-post-i-dive-into-3p46)
 - [Why You Should Avoid Using `try...catch` in SvelteKit Actions](https://dev.to/dev_michael/why-you-should-avoid-using-trycatch-in-sveltekit-actions-3dia)
+- [Why AI Can&#39;t Replace Developers: The Real Limits of AI in Coding](https://dev.to/dev_michael/why-ai-cant-replace-developers-the-real-limits-of-ai-in-coding-alf)
 <!-- BLOG-POST-LIST:END -->
