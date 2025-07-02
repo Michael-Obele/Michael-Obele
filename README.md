@@ -62,7 +62,7 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-amachree-263841325/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14478792) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev_Obele) [![Bluesky](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/svelte-apps.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-obele) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14478792) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev_Obele) [![Bluesky](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/svelte-apps.me)
 
 <!--
 
