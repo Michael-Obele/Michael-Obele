@@ -86,8 +86,8 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI in Coding: The Hype That Delivered an Expensive Autocomplete – Why Devs Are Still Essential in 2025](https://dev.to/dev_michael/ai-in-coding-the-hype-that-delivered-an-expensive-autocomplete-why-devs-are-still-essential-in-4d3h)
 - [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
 - [Streamlining Scheduling: Integrating Cal.com with SvelteKit &amp; Svelte 5](https://dev.to/dev_michael/streamlining-scheduling-integrating-calcom-with-sveltekit-svelte-5-bi2)
 - [AI is a powerful tool, but it can&#39;t innovate or reason like humans. In my latest post, I dive into the real limitations of AI in coding, why it can&#39;t replace developers, and how we should use it as an assistant, not a replacement.](https://dev.to/dev_michael/ai-is-a-powerful-tool-but-it-cant-innovate-or-reason-like-humans-in-my-latest-post-i-dive-into-3p46)
-- [Why You Should Avoid Using `try...catch` in SvelteKit Actions](https://dev.to/dev_michael/why-you-should-avoid-using-trycatch-in-sveltekit-actions-3dia)
 <!-- BLOG-POST-LIST:END -->
