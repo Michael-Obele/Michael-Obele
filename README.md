@@ -1,9 +1,11 @@
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=2000&color=FFD700&background=1E1E1E00&center=true&vCenter=true&repeat=false&width=435&height=80&lines=I'm+Michael" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=FFD700&background=1E1E1E00&center=true&vCenter=true&repeat=false&width=435&height=80&lines=I'm+Michael" alt="Typing SVG" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFD700&background=1E1E1E00&width=435&lines=Coding%3A+therapy%2C+one+commit+at+a+time.;Lines+of+code+%3D+lines+of+peace" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2000&center=true&vCenter=true&color=FFD700&background=1E1E1E00&width=435&lines=Coding%3A+therapy%2C+one+commit+at+a+time.;Turning+chaos+into+logic." alt="Typing SVG" />
+</p>
 
 ---
 
