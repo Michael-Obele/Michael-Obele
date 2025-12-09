@@ -76,6 +76,16 @@ I'm a full-stack dev with a knack for networking. Love building awesome web apps
 [![GitHub Streak](https://github-readme-streak-stats-nine-alpha.vercel.app?user=Michael-obele&theme=highcontrast)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Obele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🔧 MCP Servers
+
+I'm building a suite of Model Context Protocol (MCP) servers to enhance AI agent capabilities across different domains:
+
+- [**shadcn-svelte-mcp**](https://github.com/Michael-Obele/shadcn-svelte-mcp) - Mastra MCP server and tooling for the shadcn-svelte component docs and developer utilities (featured on MCP Market!)
+- [**tauri-docs**](https://github.com/Michael-Obele/tauri-docs) - Mastra MCP server that exposes Tauri documentation tools over MCP
+- [**rust-docs**](https://github.com/Michael-Obele/rust-docs) - Mastra MCP server providing access to Rust documentation from docs.rs
+- [**go-docs**](https://github.com/Michael-Obele/go-docs) - Mastra-based MCP server that provides expert Go programming assistance with real-time documentation from pkg.go.dev
+
+*More MCP servers coming soon! Check back for updates.*
 
 <!-- 
 ### ✍️ Random Dev Quote
