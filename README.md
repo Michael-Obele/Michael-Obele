@@ -97,8 +97,8 @@ I'm building a suite of Model Context Protocol (MCP) servers to enhance AI agent
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 2: The Secret Gift List &lpar;Purchase Tracker&rpar; 🎁](https://dev.to/dev_michael/day-2-the-secret-gift-list-purchase-tracker-m)
+- [Day 1: Building a Holiday Budget Tracker with Svelte 5 💸](https://dev.to/dev_michael/day-1-building-a-holiday-budget-tracker-with-svelte-5-29m0)
 - [Why I Ditched React &lpar;And Why You Should Too&rpar;: A Self-Taught Dev&#39;s Rant](https://dev.to/dev_michael/why-i-ditched-react-and-why-you-should-too-a-self-taught-devs-rant-dj3)
 - [AI in Coding: The Hype That Delivered an Expensive Autocomplete – Why Devs Are Still Essential in 2025](https://dev.to/dev_michael/ai-in-coding-the-hype-that-delivered-an-expensive-autocomplete-why-devs-are-still-essential-in-4d3h)
-- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
-- [Streamlining Scheduling: Integrating Cal.com with SvelteKit &amp; Svelte 5](https://dev.to/dev_michael/streamlining-scheduling-integrating-calcom-with-sveltekit-svelte-5-bi2)
 <!-- BLOG-POST-LIST:END -->
