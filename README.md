@@ -97,8 +97,8 @@ I'm building a suite of Model Context Protocol (MCP) servers to enhance AI agent
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Boost Your Svelte DX: A Guide to the Vite Svelte Inspector](https://dev.to/dev_michael/boost-your-svelte-dx-a-guide-to-the-vite-svelte-inspector-2kim)
 - [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
 - [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
 - [Visual Translation Management with vite-plugin-lingo](https://dev.to/dev_michael/visual-translation-management-with-vite-plugin-lingo-3ll8)
-- [Access Tauri Documentation Directly in Your Editor with tauri-docs MCP](https://dev.to/dev_michael/access-tauri-documentation-directly-in-your-editor-with-tauri-docs-mcp-3a7g)
 <!-- BLOG-POST-LIST:END -->
