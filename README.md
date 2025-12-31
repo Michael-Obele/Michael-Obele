@@ -97,8 +97,8 @@ I'm building a suite of Model Context Protocol (MCP) servers to enhance AI agent
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boost Your Svelte DX: A Guide to the Vite Svelte Inspector](https://dev.to/dev_michael/boost-your-svelte-dx-a-guide-to-the-vite-svelte-inspector-2kim)
-- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
-- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
-- [Visual Translation Management with vite-plugin-lingo](https://dev.to/dev_michael/visual-translation-management-with-vite-plugin-lingo-3ll8)
+- [Day 8: Recipe Conversions Without the Panic &lpar;Unit Converter&rpar;](https://dev.to/dev_michael/day-8-recipe-conversions-without-the-panic-unit-converter-2hb6)
+- [Day 7: Holiday Word of the Day &lpar;English Dictionary App&rpar;](https://dev.to/dev_michael/day-7-holiday-word-of-the-day-english-dictionary-app-51jm)
+- [Day 6: Christmas Emoji Challenge &lpar;Advanced Emoji Tools&rpar;](https://dev.to/dev_michael/day-6-christmas-emoji-challenge-advanced-emoji-tools-1cgj)
+- [Day 5: Festive QR Gift Tags &lpar;QR Code Generator&rpar;](https://dev.to/dev_michael/day-5-festive-qr-gift-tags-qr-code-generator-26n9)
 <!-- BLOG-POST-LIST:END -->
