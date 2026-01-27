@@ -103,13 +103,8 @@ I build **Model Context Protocol (MCP)** servers to help AI agents (like Cursor 
 
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Day 12: The Grand Finale &amp; New App Launch! &lpar;Countdown Timer&rpar;](https://dev.to/dev_michael/day-12-the-grand-finale-new-app-launch-countdown-timer-4lfg)
-
 - [Day 11: New Year, New Security &lpar;Password Generator&rpar;](https://dev.to/dev_michael/day-11-new-year-new-security-password-generator-1hah)
-
 - [Day 10: Visualize Your 2024 Code Journey &lpar;GitHub Tracker&rpar;](https://dev.to/dev_michael/day-10-visualize-your-2024-code-journey-github-tracker-29k9)
-
 - [Day 9: Smart Holiday Shopping &amp; Travel &lpar;Currency Converter&rpar;](https://dev.to/dev_michael/day-9-smart-holiday-shopping-travel-currency-converter-dmb)
-
 <!-- BLOG-POST-LIST:END --> 
