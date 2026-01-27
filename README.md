@@ -1,109 +1,115 @@
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=FFD700&background=1E1E1E00&center=true&vCenter=true&repeat=false&width=435&height=80&lines=I'm+Michael" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2000&center=true&vCenter=true&color=FFD700&background=1E1E1E00&width=435&lines=Coding%3A+therapy%2C+one+commit+at+a+time.;Turning+chaos+into+logic." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFD700&background=1E1E1E00&center=true&vCenter=true&repeat=false&width=435&height=80&lines=I'm+Michael" alt="Typing SVG" />
 </p>
+
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2000&center=true&vCenter=true&color=FFD700&background=1E1E1E00&width=435&lines=Coding%3A+therapy%2C+one+commit+at+a+time.;Turning+chaos+into+logic." alt="Typing SVG" />
+
+</p> 
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-nine-alpha.vercel.app?user=Michael-obele&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-obele) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev_Obele) 
+[![Bluesky](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/svelte-apps.me)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/dev_michael)
+
+</div>
 
 ---
 
-# 💫 About Me:<br>
-<!--
-**Who I Am:**
+### 👨‍💻 About Me
+I am a **Full-Stack Software Engineer** with a background in **Network Engineering**. I specialize in building high-performance applications where web technologies meet system-level programming. 
 
-I'm a full-stack dev with a knack for networking. Love building awesome web apps and contributing to open source, especially in the Svelte ecosystem.
+Currently, I am focused on the **Model Context Protocol (MCP)**, bridging the gap between LLMs and developer documentation, while maintaining an active coding streak.
 
-**What I Do:**
+* **Core Stack:** Svelte 5, Rust, Tauri, TypeScript.
+* **Focus:** AI Tooling, Local-First Desktop Apps, and Developer Experience (DX).
+* **Current Role:** Network Engineer.
 
-* Network Engineer (current role) 💻
-* Full-stack developer with expertise in integrating backend and frontend tools, particularly using frameworks like Next.js and SvelteKit. 🔗
+---
 
-**What I've Achieved:**
+### 🚀 Featured: AI & MCP Tooling
+I build **Model Context Protocol (MCP)** servers to help AI agents (like Cursor & Claude) understand developer documentation better.
 
-* Successfully integrated backend tools (like Node.js) with frontend projects, ensuring seamless functionality and user experience. 🔗 🔨
-* Implemented secure authentication and robust database functionalities using Prisma, PostgreSQL, and SQL in various web applications. 🔒 🛢️
-* Contributed to the Svelte ecosystem by building and maintaining tools and libraries that enhance the SvelteKit experience. 🛠️
+> **Explore the centralized MCP showcase at [mcp.svelte-apps.me](https://mcp.svelte-apps.me/)**
 
-**What I'm Learning:**
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**shadcn-svelte-mcp**](https://github.com/Michael-Obele/shadcn-svelte-mcp) | Documentation & DevTools server for shadcn-svelte. | `Svelte` `MCP` |
+| [**layerchart-docs**](https://github.com/Michael-Obele/layerchart-docs) | LayerChart (Svelte charting library) docs server. | `Svelte` `MCP` |
+| [**tauri-docs**](https://github.com/Michael-Obele/tauri-docs) | Tauri docs with intelligent caching & search. | `Tauri` `Rust` |
+| [**rust-docs**](https://github.com/Michael-Obele/rust-docs) | Fast package search for the Rust ecosystem. | `Rust` |
+| [**go-docs**](https://github.com/Michael-Obele/go-docs) | Go package documentation server. | `Go` |
 
-* Continuing to explore advanced full-stack development concepts and best practices to deliver innovative solutions. 📈
-* Delving deeper into the Svelte ecosystem to build more efficient and impactful web applications. 🌱
---->
+---
+### 🛠️ Technical Arsenal
 
-<!---
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Runtimes** | ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-black?style=flat&logo=bun&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frameworks** | ![Svelte](https://img.shields.io/badge/-Svelte_5-FF3E00?style=flat&logo=svelte&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat&logo=tauri&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
 
- I'm a full-stack developer and network engineer who builds awesome web apps and contributes to open source—especially within the Svelte ecosystem. I integrate robust backends (using Node.js, Prisma, PostgreSQL, and SQL) with sleek frontends in SvelteKit and Next.js, while continually learning advanced full-stack techniques to craft innovative digital experiences.
---->
-**What I Do:**
+### 🧪 Labs & Recent Experiments
+<div align="center">
 
-* Network Engineer (current role) 💻
-* Building web apps with **Next.js/SvelteKit**, contributing to Svelte OSS. Integrate secure systems via **Node.js, Prisma, PostgreSQL**. Focused on advancing full-stack efficiency and Svelte ecosystem tools. 🛠️
+<a href="https://github.com/Michael-Obele/cinder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=cinder&theme=highcontrast&hide_border=true&description_lines=2" />
+</a>
+<a href="https://github.com/Michael-Obele/cinder-sv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=cinder-sv&theme=highcontrast&hide_border=true&description_lines=2" />
+</a>
 
+<br/>
 
-<!---
-#### **🚀 Personal Projects**:
- [Svelte-MiniApps](https://github.com/Michael-Obele/Svelte-MiniApps) • [Random-Quote-Gen-v3.0](https://github.com/Michael-Obele/Random-Quote-Gen-v3.0) • [libernotarum](https://github.com/Michael-Obele/libernotarum) 
+<a href="https://github.com/Michael-Obele/vite-plugin-lingo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=vite-plugin-lingo&theme=highcontrast&hide_border=true&description_lines=2" />
+</a>
+<a href="https://github.com/Michael-Obele/VaultNote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=VaultNote&theme=highcontrast&hide_border=true&description_lines=2" />
+</a>
 
+</div>
 
-#### **🤝 Open Source Contributions**:
-[json-schema-org](https://github.com/json-schema-org/website) • [supabase](https://github.com/supabase/supabase) • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) • [localsend/website](https://github.com/localsend/website)
-
---->
-
-**What I’m Looking For:**  
-- **Collaborate** on full-stack projects with SvelteKit/modern frameworks 🛠️  
-- **Explore** cutting-edge techniques and best practices in full-stack dev 📘  
-- **Mentorship** to grow my expertise and impact in the Svelte community 🌱  
-
-
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-obele) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14478792) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev_Obele) [![Bluesky](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/svelte-apps.me)
-
-<!--
-
-# 💻 Tech Stack:
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-
--->
-
-[![GitHub Streak](https://github-readme-streak-stats-nine-alpha.vercel.app?user=Michael-obele&theme=highcontrast)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Obele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🔧 MCP Servers
-
-Explore the centralized MCP showcase at [**mcp.svelte-apps.me**](https://mcp.svelte-apps.me/) — searchable docs, feature summaries, example usage, tool lists, and installation snippets for each MCP server.
-
-Featured MCP servers:
-
-- [**shadcn-svelte-mcp**](https://github.com/Michael-Obele/shadcn-svelte-mcp) — shadcn-svelte docs + dev tools
-- [**tauri-docs**](https://github.com/Michael-Obele/tauri-docs) — Tauri docs with caching & search
-- [**rust-docs**](https://github.com/Michael-Obele/rust-docs) — Rust docs & package search
-- [**go-docs**](https://github.com/Michael-Obele/go-docs) — Go package docs & search
-
-- [**layerchart-docs**](https://github.com/Michael-Obele/layerchart-docs) — LayerChart (Svelte charting library) docs server
-
-_More MCP servers coming soon! Check back for updates._
-
+<!--  ### ⚡ Recent Activity
+---
 <!-- 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### 📂 Open Source & Projects
+* **[Svelte-MiniApps](https://github.com/Michael-Obele/Svelte-MiniApps):** A collection of functional mini-applications demonstrating Svelte 5 capabilities.
+* **[SvelteKit API Gen](https://github.com/Michael-Obele/sveltekit-api-gen):** OpenAPI generator for SvelteKit projects.
+**Contributions:** [Supabase](https://github.com/supabase/supabase), [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte), [Localsend](https://github.com/localsend/website). 
+
+---
 -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Blog posts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Obele&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+
+ # Blog posts
+
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Day 12: The Grand Finale &amp; New App Launch! &lpar;Countdown Timer&rpar;](https://dev.to/dev_michael/day-12-the-grand-finale-new-app-launch-countdown-timer-4lfg)
+
 - [Day 11: New Year, New Security &lpar;Password Generator&rpar;](https://dev.to/dev_michael/day-11-new-year-new-security-password-generator-1hah)
+
 - [Day 10: Visualize Your 2024 Code Journey &lpar;GitHub Tracker&rpar;](https://dev.to/dev_michael/day-10-visualize-your-2024-code-journey-github-tracker-29k9)
+
 - [Day 9: Smart Holiday Shopping &amp; Travel &lpar;Currency Converter&rpar;](https://dev.to/dev_michael/day-9-smart-holiday-shopping-travel-currency-converter-dmb)
-<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:END --> 
