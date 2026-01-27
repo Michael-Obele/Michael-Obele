@@ -77,7 +77,7 @@ I build **Model Context Protocol (MCP)** servers to help AI agents (like Cursor 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=vite-plugin-lingo&theme=highcontrast&hide_border=true&description_lines=2" />
 </a>
 <a href="https://github.com/Michael-Obele/VaultNote">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=VaultNote&theme=highcontrast&hide_border=true&description_lines=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Obele&repo=cinder-mcp&theme=highcontrast&hide_border=true&description_lines=2" />
 </a>
 
 </div>
