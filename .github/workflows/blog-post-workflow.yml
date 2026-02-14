@@ -1,14 +1,23 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/dev_michael"
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours (matches activity workflow)
+  workflow_dispatch:
+
+permissions:
+  contents: write # Required to push README changes
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/dev_michael"
+          commit_message: "docs: update README with latest blog posts"
+          committer_username: "Michael-Obele"
