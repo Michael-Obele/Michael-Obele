@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 I am a **Full-Stack Software Engineer** with a background in **Network Engineering**. I specialize in building high-performance applications where web technologies meet system-level programming.
 
-Currently, I am focused on the **Model Context Protocol (MCP)**, bridging the gap between LLMs and developer documentation, while maintaining an active 600+ day coding streak.
+Currently, I am focused on the **Model Context Protocol (MCP)**, bridging the gap between LLMs and developer documentation, while maintaining an active coding streak.
 
 * **Core Stack:** Svelte 5, Rust, Tauri, TypeScript.
 * **Focus:** AI Tooling, Local-First Desktop Apps, and Developer Experience (DX).
