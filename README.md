@@ -69,24 +69,15 @@ These are high-performance tools and experimental projects I'm actively building
 
 ---
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#53](https://github.com/Michael-Obele/VaultNote/pull/53) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-2. 🗣 Commented on [#53](https://github.com/Michael-Obele/VaultNote/pull/53#issuecomment-3855276386) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-3. ℹ️ Labeled PR [#53](https://github.com/Michael-Obele/VaultNote/pull/53) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-4. 🚀 Published release [vaultnote: v0.22.0](https://github.com/Michael-Obele/VaultNote/releases/tag/vaultnote-v0.22.0) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-5. 🎉 Merged PR [#53](https://github.com/Michael-Obele/VaultNote/pull/53) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-6. ℹ️ Labeled PR [#53](https://github.com/Michael-Obele/VaultNote/pull/53) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-7. 💪 Opened PR [#53](https://github.com/Michael-Obele/VaultNote/pull/53) in [Michael-Obele/VaultNote](https://github.com/Michael-Obele/VaultNote)
-<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Michael-Obele&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
-<br />
+<!-- <br /> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Obele&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
  ### 📝 Latest Blog Posts
 
