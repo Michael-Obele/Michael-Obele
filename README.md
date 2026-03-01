@@ -24,12 +24,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Full-Stack Software Engineer** with a background in **Network Engineering**. I specialize in building high-performance applications where web technologies meet system-level programming.
+I am a **Full-Stack Software Engineer** with a background in **Network Engineering**. I build across every surface — from npm libraries and Vite plugins to web apps, desktop apps with **Tauri**, mobile apps with **Capacitor**, and backend services in **Go**.
 
-Currently, I am focused on the **Model Context Protocol (MCP)**, bridging the gap between LLMs and developer documentation, while maintaining an active coding streak.
+I ship frequently and across the stack: reactive SvelteKit libraries, OpenAPI generators, offline-first invoicing tools, high-performance web scrapers, and MCP servers that connect AI agents to developer documentation.
 
-* **Core Stack:** Svelte 5, Rust, Tauri, TypeScript.
-* **Focus:** AI Tooling, Local-First Desktop Apps, and Developer Experience (DX).
+* **Core Stack:** Svelte 5, TypeScript, Rust, Tauri, Go.
+* **Building:** Libraries, Plugins, Web Apps, Desktop Apps, Backend APIs, AI Tooling.
 * **Current Role:** Network Engineer.
 
 ---
@@ -43,6 +43,7 @@ This website offers searchable docs, feature summaries, tool lists, and installa
 * **shadcn-svelte-mcp**: Docs & DevTools for shadcn-svelte.
 * **tauri-docs**: Intelligent caching & search for Tauri.
 * **rust-docs** & **go-docs**: Fast package search.
+* **drizzle-docs**: Documentation & search for Drizzle ORM.
 
 ---
 
@@ -52,10 +53,7 @@ These are high-performance tools and experimental projects I'm actively building
 > **View all my projects at [ship.svelte-apps.me](https://ship.svelte-apps.me/)**
 
 * [**cinder**](https://github.com/Michael-Obele/cinder): High-performance, self-hosted web scraping API built with Go.
-* [**cinder-sv**](https://github.com/Michael-Obele/cinder-sv): Modern Svelte 5 frontend for the Cinder Scraper.
-* [**vite-plugin-lingo**](https://github.com/Michael-Obele/vite-plugin-lingo): Visual editor for .po (Gettext) translation files.
-* [**sveltekit-api-gen**](https://github.com/Michael-Obele/sveltekit-api-gen): Auto-generate OpenAPI 3.0 specs from SvelteKit endpoints.
-* [**Svelte-MiniApps**](https://github.com/Michael-Obele/Svelte-MiniApps): A collection of functional mini-applications demonstrating Svelte 5 capabilities.
+* [**svelte-idb**](https://github.com/Michael-Obele/svelte-idb): Zero-dependency, SSR-safe, type-safe IndexedDB wrapper for SvelteKit with Svelte 5 runes.
 
 ---
 
