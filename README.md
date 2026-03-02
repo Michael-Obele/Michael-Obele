@@ -54,6 +54,7 @@ These are high-performance tools and experimental projects I'm actively building
 
 * [**cinder**](https://github.com/Michael-Obele/cinder): High-performance, self-hosted web scraping API built with Go.
 * [**svelte-idb**](https://github.com/Michael-Obele/svelte-idb): Zero-dependency, SSR-safe, type-safe IndexedDB wrapper for SvelteKit with Svelte 5 runes.
+* [**tif**](https://github.com/Michael-Obele/tif): Professional-grade, offline-first invoice and receipt generator for tech professionals that runs entirely in the browser.
 
 ---
 
