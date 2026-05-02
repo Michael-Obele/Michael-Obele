@@ -37,13 +37,7 @@ I ship frequently and across the stack: reactive SvelteKit libraries, OpenAPI ge
 ### 🚀 Featured: AI & MCP Tooling
 I build **Model Context Protocol (MCP)** servers to help AI agents (like Cursor & Claude) understand developer documentation better.
 
-> **Explore the centralized MCP showcase at [mcp.svelte-apps.me](https://mcp.svelte-apps.me/)**
-
-This website offers searchable docs, feature summaries, tool lists, and installation snippets for all my MCP servers, including but not limited to:
-* **shadcn-svelte-mcp**: Docs & DevTools for shadcn-svelte.
-* **tauri-docs**: Intelligent caching & search for Tauri.
-* **rust-docs** & **go-docs**: Fast package search.
-* **drizzle-docs**: Documentation & search for Drizzle ORM.
+**Explore the centralized MCP showcase at [mcp.svelte-apps.me](https://mcp.svelte-apps.me/)**
 
 ---
 
