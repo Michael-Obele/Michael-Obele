@@ -34,13 +34,6 @@ I ship frequently and across the stack: reactive SvelteKit libraries, OpenAPI ge
 
 ---
 
-### 🚀 Featured: AI & MCP Tooling
-I build **Model Context Protocol (MCP)** servers to help AI agents (like Cursor & Claude) understand developer documentation better.
-
-**Explore the centralized MCP showcase at [mcp.svelte-apps.me](https://mcp.svelte-apps.me/)**
-
----
-
 ### 🧪 Labs & Recent Experiments
 These are high-performance tools and experimental projects I'm actively building.
 
