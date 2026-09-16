@@ -68,8 +68,8 @@ These are high-performance tools and experimental projects I'm actively building
  ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cinder is now Tomoshibi 灯火 — same scraper, better name](https://dev.to/dev_michael/cinder-is-now-tomoshibi-deng-huo-same-scraper-better-name-klj)
 - [AI didn&#39;t make me a worse coder. It made me a worse reviewer.](https://dev.to/dev_michael/ai-didnt-make-me-a-worse-coder-it-made-me-a-worse-reviewer-48d0)
 - [The cheapest model on my plan loses every benchmark. It still beats models charging 14x more.](https://dev.to/dev_michael/the-cheapest-model-on-my-plan-loses-every-benchmark-it-still-beats-models-charging-14x-more-2po8)
 - [I Got Tired of Guessing OpenCode Go Models — So I Built a Live Fit + Burn Dashboard](https://dev.to/dev_michael/i-got-tired-of-guessing-opencode-go-models-so-i-built-a-live-fit-burn-dashboard-545d)
-- [I Built Tech Invoice Forge: an Offline-First Invoice App for Tech Freelancers](https://dev.to/dev_michael/i-built-tech-invoice-forge-an-offline-first-invoice-app-for-tech-freelancers-41p7)
 <!-- BLOG-POST-LIST:END --> 
