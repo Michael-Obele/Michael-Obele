@@ -1,0 +1,13 @@
+name: keep-aiven-redis-alive
+on:
+  schedule: [{ cron: '0 9 * * *' }] # daily 09:00 UTC
+  workflow_dispatch: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          sudo apt-get update && sudo apt-get install -y redis-tools
+          redis-cli --tls -u "$REDIS_URL" ping
+        env:
+          REDIS_URL: ${{ secrets.REDIS_URL }}
